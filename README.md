@@ -14,4 +14,5 @@ Websites:<br />
 <br />
 Apps:<br />
 [Tip calculator app](https://brave-agnesi-f0e72e.netlify.app/)
+---
 Code can be read on my previous GitHub Account: https://github.com/jakubinhoo
