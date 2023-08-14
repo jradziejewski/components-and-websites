@@ -1,6 +1,16 @@
 ## [My Personal Website](https://jradziejewski.netlify.app/)
 <br />
 
+### Websites:<br />
+#### [Car Hub (Next.js)](https://car-hub-next.netlify.app/)
+[Code](https://github.com/jradziejewski/portfolio-next)
+#### [Space Tourism (Next.js)](https://space-tourism-next.netlify.app)
+[Code](https://github.com/jradziejewski/space-tourism)
+#### [EasySpotiPlaylist](https://jradziejewski.github.io/spotify-playlist-creator/)<br />
+#### [Clipboard landing page](https://lucid-ardinghelli-ddd435.netlify.app/)
+<br />
+<br />
+
 Components:<br />
 [Responsive ad page](https://epic-lumiere-c0e0c5.netlify.app)  <br />
 [First JS page](https://xenodochial-pike-fdb1c5.netlify.app) <br />
@@ -10,12 +20,9 @@ Components:<br />
 [Article preview component](https://happy-agnesi-49262f.netlify.app/)<br />
 <br />
 <br />
-Websites:<br />
-[EasySpotiPlaylist](https://jradziejewski.github.io/spotify-playlist-creator/)<br />
-[Clipboard landing page](https://lucid-ardinghelli-ddd435.netlify.app/)
-<br />
-<br />
-Apps:<br />
+
+### Apps:<br />
 [Tip calculator app](https://brave-agnesi-f0e72e.netlify.app/)
+
 ---
-Code can be read on my previous GitHub Account: https://github.com/jakubinhoo
+Most of those are quite old. Code to them can be read on my previous GitHub Account: https://github.com/jakubinhoo
