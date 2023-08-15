@@ -3,7 +3,7 @@
 
 ### Websites:<br />
 #### [Car Hub (Next.js)](https://car-hub-next.netlify.app/)
-[Code](https://github.com/jradziejewski/portfolio-next)
+[Code](https://github.com/jradziejewski/car-hub)
 #### [Space Tourism (Next.js)](https://space-tourism-next.netlify.app)
 [Code](https://github.com/jradziejewski/space-tourism)
 #### [EasySpotiPlaylist](https://jradziejewski.github.io/spotify-playlist-creator/)<br />
